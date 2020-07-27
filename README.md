@@ -5,8 +5,8 @@ This is my Own Code for the Classic SNAKE game
 <ul>
   <li>Download all the files</li>
   <li>Save all the files in the same directory</li>
-  <li>Open command prompt go use command cd (your path)</li>
-  <li>then type python snake.py</li>
+  <li>Open command prompt go use command "cd (your path)"</li>
+  <li>then type "python snake.py"</li>
 </ul>
 
 **NOTE:** You must have pygame module installed for the game to run.
