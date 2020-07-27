@@ -11,7 +11,7 @@ This is my Own Code for the Classic SNAKE game
 
 **NOTE:** You must have pygame module installed for the game to run.
 
-***TO INSTALL PYGAME***
+***TO INSTALL PYGAME***:
 Just go to your command prompt and type the command
 "pip install pygame"
 This should start your pygame installation.
